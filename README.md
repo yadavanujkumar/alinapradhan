@@ -20,10 +20,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 📈 GitHub Stats
 
 ![Alina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinapradhan&show_icons=true&theme=radical)
-
+<!--
 ## 📝 Latest Blog Posts
 
- <!-- BLOG-POST-LIST:START
+ BLOG-POST-LIST:START
 - [How to Build a REST API with Node.js](https://yourblog.com/how-to-build-a-rest-api-with-nodejs)
 - [Introduction to React Hooks](https://yourblog.com/introduction-to-react-hooks)
 - [Understanding Asynchronous JavaScript](https://yourblog.com/understanding-asynchronous-javascript)
