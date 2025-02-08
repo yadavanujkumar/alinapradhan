@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to Data Science and AI/ML.
 - 📫 How to reach me: [Your Email](mailto:alinapradhan15021707@gmail.com)
-- ⚡ Fun fact: I love hiking and photography!
+- ⚡ Fun fact: I love SPORTS!
 
 ## 🛠️ Skills
 
@@ -29,9 +29,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - [Understanding Asynchronous JavaScript](https://yourblog.com/understanding-asynchronous-javascript)
   BLOG-POST-LIST:END -->
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/alina-pradhan-2a2b29332/))
 <!--
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/alinapradhan)
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
@@ -39,10 +36,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🏆 Achievements
 
-- **Hackathons:** Presented Research paper in International Conference
--  **Hackathons:** Presented Analysis on Real time dataset in National level level conference.
-- **Certifications:** Machine learning from coursera
-- **Certifications:** Introduction to Data Engineering
+- **Hackathons:**
+- Presented Research paper in International Conference
+- Presented Analysis on Real time dataset in National level level conference.
+- **Certifications:**
+- Pursuing Machine learning from coursera
+- Introduction to Data Engineering
 
 <!-- ## 📂 Projects
 
