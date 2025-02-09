@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to Data Science and AI/ML.
 - 📫 How to reach me: [Your Email](mailto:alinapradhan15021707@gmail.com)
-- ⚡ Fun fact: I love SPORTS!
+- ⚡ Fun fact: I love volleyballlll,swimminggg, athletics andddd deadlifting.
 
 ## 🛠️ Skills
 
