@@ -1,4 +1,4 @@
-# Namaste,Hey,holaaa,Ciao,Merhabaaa, I'm Alina Pradhan! 👋
+# Namaste,Hello,Hola,Ciao,Marhaba, I'm Alina Pradhan! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a bit about me:
 
